@@ -21,3 +21,5 @@ deploy:
   keep-history: true
   on:
     branch: master
+name: Node App Helper Actions
+  uses: guahanweb/action-nodejs-gh-pages@1.0.0
